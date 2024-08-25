@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rohit Sharma - Cricketer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        h1, h2 {
+            color: #444;
+        }
+        .content {
+            background: #fff;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 8px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: #fff;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Rohit Sharma</h1>
+    </header>
+
+    <div class="container">
+        <div class="content">
+            <h2>About Rohit Sharma</h2>
+            <img src="https://example.com/rohit-sharma.jpg" alt="Rohit Sharma">
+            <p>Rohit Sharma is an Indian cricketer and the current captain of the Indian national team in limited-overs formats. He is widely regarded as one of the best batsmen in the world and has achieved numerous records in international cricket.</p>
+
+            <h2>Career Highlights</h2>
+            <ul>
+                <li>Fastest double century in One Day Internationals (ODIs)</li>
+                <li>Most centuries in a single edition of the Indian Premier League (IPL)</li>
+                <li>Captain of Mumbai Indians in the IPL</li>
+            </ul>
+
+            <h2>Early Life</h2>
+            <p>Rohit Sharma was born on April 30, 1987, in Bansod, Nagpur, India. He began playing cricket at a young age and quickly rose through the ranks due to his exceptional talent and dedication.</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Rohit Sharma Fan Page. All rights reserved.</p>
+    </footer>
+</body>
+</html>
